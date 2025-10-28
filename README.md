@@ -1,0 +1,2 @@
+# Bluugui
+Roblox Bluugui script
